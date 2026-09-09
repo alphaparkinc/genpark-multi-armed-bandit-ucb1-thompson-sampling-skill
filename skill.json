@@ -1,0 +1,17 @@
+{
+  "name": "genpark-multi-armed-bandit-ucb1-thompson-sampling-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Multi-Armed Bandit UCB1 & Thompson Sampling Exploration-Exploitation Optimizer",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "reinforcement-learning",
+    "multi-armed-bandit",
+    "ucb1",
+    "thompson-sampling"
+  ]
+}
